@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+フロントエンド開発が好きなエンジニアです。バックエンドも触ります。建築にも興味持ってます。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+# This Blog
+
+[Fuwari](https://github.com/saicaca/fuwari)さん(神)を使わせていただいてます。
+技術tipsや面白かった建築のスクラップ記事を書いていきます。
+
+::github{repo="ashigirl96/fuwari"}
